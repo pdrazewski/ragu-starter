@@ -1,4 +1,4 @@
-# ragu-starter [![NPM version][npm-image]][npm-url]
+# ragu-starter
 > Generator for ragu.io components
 
 ## Installation
