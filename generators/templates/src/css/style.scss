@@ -1,0 +1,12 @@
+// utils & vars
+@import "../../node_modules/normalize.css/normalize.css";
+@import "_mixins";
+@import "_vars";
+
+.component {
+    margin: 20px;
+    &_item {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+}

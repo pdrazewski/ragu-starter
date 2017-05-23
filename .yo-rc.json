@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "przemyslaw.drazewski",
+      "authorEmail": "drazewski.przemyslaw@gmail.com",
+      "authorUrl": "pdrazewski.com"
+    }
+  }
+}
